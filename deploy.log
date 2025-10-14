@@ -1,0 +1,9 @@
+🏗️  Building website...
+npm error code ENOENT
+npm error syscall open
+npm error path /Users/icrypto/anthropic-claude-project/GoldenCellQoder/goldencell-website/package.json
+npm error errno -2
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/Users/icrypto/anthropic-claude-project/GoldenCellQoder/goldencell-website/package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: /Users/icrypto/.npm/_logs/2025-10-14T23_02_06_648Z-debug-0.log
