@@ -1,5 +1,7 @@
 # GoldenCell Qoder
 
+🌐 **Live Demo**: Coming soon on Vercel - [Deploy Instructions](./DEPLOYMENT.md)
+
 A modern, multilingual biopharmaceutical company website built with Next.js 15, featuring beautiful cellular animations and supporting 10 languages.
 
 ## 🌟 Features
