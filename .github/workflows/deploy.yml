@@ -39,10 +39,8 @@ jobs:
         run: |
           cd goldencell-website
           npm run build
+          touch out/.nojekyll
           
-      - name: Add .nojekyll file
-        run: touch ./goldencell-website/out/.nojekyll
-        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
