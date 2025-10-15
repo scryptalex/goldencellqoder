@@ -1,5 +1,7 @@
 # Quick Start: Deploy to Vercel
 
+> **Note:** The repo currently ships a static export. GitHub Pages deployment is automatic; Vercel deployment would require regenerating the Next.js app.
+
 ## 🚀 Fastest Way to Get Live Demo
 
 ### Option 1: One-Click Deploy

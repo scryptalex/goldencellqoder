@@ -1,5 +1,7 @@
 # GoldenCell Website - Deployment Guide
 
+> **Note:** The repository now stores the statically exported site in `goldencell-website/`. No build step is required—pushes to `main` deploy automatically.
+
 ## 🚀 Live Demo
 
 The website will be deployed to **Vercel** for the best performance with Next.js and next-intl.

@@ -1,5 +1,7 @@
 # GitHub Pages Setup - Final Steps
 
+> **Note:** GitHub Pages now publishes the static bundle from `goldencell-website/` automatically on push to `main`.
+
 ## ✅ Code is Ready!
 
 The website is configured and pushed to GitHub. Now you need to enable GitHub Pages in the repository settings.

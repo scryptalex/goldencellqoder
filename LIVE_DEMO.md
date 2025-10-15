@@ -1,5 +1,7 @@
 # ✅ GitHub Pages Deployed - Final Steps
 
+> **Note:** The live site is generated from the static files in `goldencell-website/`. Committing to `main` triggers deployment—no manual build required.
+
 ## 🎉 Good News!
 
 Your website has been successfully built and pushed to the `gh-pages` branch!

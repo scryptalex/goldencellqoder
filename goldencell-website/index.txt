@@ -1,0 +1,1 @@
+Redirects to /goldencellqoder/en/ for the default locale.
