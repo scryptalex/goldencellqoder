@@ -191,5 +191,4 @@
 
   window.addEventListener("load", applyEnhancements);
   window.addEventListener("pageshow", applyEnhancements);
-  setInterval(applyEnhancements, 4000);
 })();
